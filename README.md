@@ -1,5 +1,4 @@
-### Olá 👋🏻, me chamo Nicolas Gabriel, sou bem proativo e tenho facilidade em aprender qualquer coisa. Estou à procura de estágio na área de TI. No momento, estou me graduando em Sistemas de Informação no segundo período, atualmente estou me especializando na linguagem c#/.net, mas tenho um breve conhecimento em JavaScript, HTML e CSS.👋🏻
- 
+### Olá! Eu sou o Nicolas Gabriel! 👋🏻
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicolas_gabrielxd/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-gabriel-ab175a28b/)
