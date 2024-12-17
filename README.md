@@ -13,6 +13,4 @@
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
-
-
-<br/>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas1548&layout=compact)
+<br/>Olá, me chamo Nicolas Gabriel, sou bem proativo e tenho facilidade em aprender qualquer coisa. Estou à procura de estágio na área de TI. No momento, estou me graduando em Sistemas de Informação no segundo período, atualmente estou me especializando na linguagem c#/.net, mas tenho um breve conhecimento em JavaScript, HTML e CSS.
