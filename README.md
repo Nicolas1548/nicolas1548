@@ -6,8 +6,7 @@
 
 ###
 
-Olá, me chamo Nicolas Gabriel sou estudante de Sistemas de Informação na Unileste. tenho Base acadêmica sólida em Java e Programação Orientada a Objetos, com projetos práticos aplicando lógica de
-programação, front-end e versionamento de código..
+Olá, me chamo Nicolas Gabriel e sou estudante de Sistemas de Informação no Unileste. Tenho base acadêmica sólida em Java e Programação Orientada a Objetos, com projetos práticos aplicando persistência de dados (JDBC/SQL), APIs REST, front-end e versionamento de código.
  
 ###
 
