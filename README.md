@@ -17,7 +17,7 @@ Olá, me chamo Nicolas Gabriel e sou estudante de Sistemas de Informação no Un
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/nicolas_gabrielxd/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/nicolas-gabriel-ab175a28b/)
 
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">Stacks ~</h3>
 
 <img 
     align="left" 
