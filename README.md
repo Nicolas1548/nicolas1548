@@ -36,7 +36,7 @@ Sou estudante de **Sistemas de Informação no Unileste** (Ipatinga, MG), com fo
 ### Conecte-se comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/nicolas-gabriel-ab175a28b/" target="_blank">
+  <a href="https://www.linkedin.com/in/nicolas-gabriel-d3v/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:nicolasgabriel069@gmail.com">
